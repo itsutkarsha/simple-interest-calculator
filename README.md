@@ -13,3 +13,6 @@ The Simple Interest Calculator is a basic Bash script project that calculates si
 
 ## 🧮 Formula Used
 Simple Interest (SI) = (Principal × Rate × Time) / 100
+
+
+Updated simple interest project
